@@ -1,3 +1,8 @@
 ---
-title: Welcome to my blog!
+title: GitHub Pages activity!
 ---
+- Odesa
+- Kyiv
+- Lviv
+
+
